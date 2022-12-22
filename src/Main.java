@@ -9,5 +9,8 @@ public class Main {
    c.color="green";
    c.size="123";
    c.temp="34";
+
+   Planet2 pl=new Planet2();
+   pl.size=4;
     }
 }
